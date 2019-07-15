@@ -15,7 +15,7 @@ python3 train.py
 
 ![屏幕快照 2019-07-15 17.17.08.png](https://i.loli.net/2019/07/15/5d2c44a6188e942666.png)
 
-![result](sresult.gif)
+![result](result.gif)
 
 ## Reference
 
